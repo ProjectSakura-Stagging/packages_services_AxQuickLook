@@ -28,7 +28,7 @@ import com.android.axion.quicklook.QuickLookAction
 import com.android.axion.quicklook.QuickLookTarget
 import com.android.axion.quicklook.R
 import com.android.axion.quicklook.util.SettingsHelper
-import com.android.internal.util.android.OmniJawsClient
+import com.android.internal.util.sakura.OmniJawsClient
 import java.io.ByteArrayOutputStream
 
 class WeatherProvider(context: Context, workerHandler: Handler) :
